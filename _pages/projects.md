@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+---
 -Project 1
 ---
 <img align="left" width="200" height="120" src="/images/500x300.png">
@@ -15,7 +16,7 @@ DOA estimation
 \[Video\]\[Code\]
 
 
-\
+---
 -Ultrasonic Airwriting System
 ---
 <img align="left" width="200" height="120" src="/images/500x300.png">
