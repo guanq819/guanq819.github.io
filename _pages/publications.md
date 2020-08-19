@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
+
 -Journal Papers:
 ======
 * Chen H, Ballal T, Muqaibel AH, Zhang X, Al-Naffouri TY. "Air-writing via Receiver Array Based Ultrasonic Source Localization". IEEE Transactions on Instrumentation and Measurement (2020). \[[pdf](https://www.researchgate.net/publication/342444512_Phase-difference-based_3-D_Source_Localization_Using_a_Compact_Receiver_Configuration)\]
