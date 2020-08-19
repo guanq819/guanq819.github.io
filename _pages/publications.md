@@ -7,9 +7,9 @@ author_profile: true
 
 -Journal Papers:
 ======
-* Chen H, Ballal T, Muqaibel AH, Zhang X, Al-Naffouri TY. "Air-writing via Receiver Array Based Ultrasonic Source Localization". IEEE Transactions on Instrumentation and Measurement (2020). \["[pdf](https://www.researchgate.net/publication/342444512_Phase-difference-based_3-D_Source_Localization_Using_a_Compact_Receiver_Configuration)\]
+* Chen H, Ballal T, Muqaibel AH, Zhang X, Al-Naffouri TY. "Air-writing via Receiver Array Based Ultrasonic Source Localization". IEEE Transactions on Instrumentation and Measurement (2020). \[[pdf](https://www.researchgate.net/publication/342444512_Phase-difference-based_3-D_Source_Localization_Using_a_Compact_Receiver_Configuration)\]
 * Chen H, Ballal T, Saeed N, Alouini MS, Al-Naffouri TY. "A Joint TDOA-PDOA Localization Approach Using
-Particle Swarm Optimization." IEEE Wireless Communications Letters (2020).\[ "[pdf](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)".\]
+Particle Swarm Optimization." IEEE Wireless Communications Letters (2020).\[[pdf](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)".\]
 
 -Conference Papers:
 ======
