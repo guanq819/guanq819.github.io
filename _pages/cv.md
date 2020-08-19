@@ -22,6 +22,13 @@ redirect_from:
 * **Programming**: MATLAB, Python, C#, C/C++, Verylog, VHDL
 * **Others**: Tensorflow, PyTorch, Latex, Unity 3D, Blender, VR Development
 
+
+-Honors & Awards
+=====
+* Scholarship:
+  sdfsd
+  sdf
+
 -Activities
 ======
 * 2020-03 to 2020-04: Mixed Reality (MR) Intern at NEOM Smart City, RIyadh, KSA
