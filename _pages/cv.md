@@ -18,7 +18,7 @@ Education
   
 Skills
 ======
-* Skill 1
+* **Languages**: Chinese (Mother tongue), English (Fluent), German (Beginner), Arabic (Quitter:joy:)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
