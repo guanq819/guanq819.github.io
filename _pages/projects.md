@@ -8,4 +8,5 @@ author_profile: true
 {% include base_path %}
 
 -Education
-![image]('../images/bio-photo-2.jpg'){: style="float: left"; margin-right: 10em; height="25%" width="25%"} ## Some Text On Left!<br>Some Text On Left!<br><br>Some Text On Left!Some Text On Left!Some Text
+<br/><img src='/images/500x300.png'>
+
