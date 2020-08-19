@@ -20,7 +20,7 @@ Particle Swarm Optimization." IEEE Wireless Communications Letters (2020)." \[[p
 * Chen H, Ballal T, Saad M, Al-Naffouri TY. "Angle-of-arrival-based gesture recognition using ultrasonic multi-frequency signals." In 2017 25th European Signal Processing Conference (EUSIPCO). IEEE, 2017. (**Oral**) \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8081160)\]
 
 
--Patents
+-Patents:
 ======
 * Hui Chen, Tarig Ahmed, Mohamed, Saadeldin, Tareq Al-Naffouri. “Angle-of-arrival-based Gesture Recognition System and Method”, (US Patent No. 10,386,481. 20 Aug. 2019.) \[[pdf](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)\]
 * Zheng Yili, Yan Lei, Li Ning, Chen Hui, Guo Jiao, Lei Yidan. "E-communication terminal for remote emotion communication among relatives and friends”, (CN. Patent No. 102968078A, 2013-03-13)
