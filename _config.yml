@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "Hui Chen"
+title                    : "Hui Chen / Homepage"
+title_separator          : "-"
 name                     : &name "Hui Chen"
 description              : &description "Ph.D. Student at KAUST"
 url                      : https://chenhui07c8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Hui Chen 2"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. Student at KAUST"
+  location         : "Thuwal"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
