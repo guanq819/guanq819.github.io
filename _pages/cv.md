@@ -11,21 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical Engineering, King Abdullah University of Science and Technology, 2021 (expected)
+* M.S. in Computer Engineering, University of Chinese Academy of Sciences, 2016
+* B.S. in Electrical Engineering, Beijing Forestry University, 2013
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -36,6 +25,20 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Activities
+======
+* 2020-03 to 2020-04: Mixed Reality (MR) Intern at NEOM Smart City, RIyadh, KSA
+* 2020-03 to 2020-04: Mixed Reality (MR) Intern at NEOM Smart City, RIyadh, KSA
+  * NEOM
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* 2017/2018 Fall Semester 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
