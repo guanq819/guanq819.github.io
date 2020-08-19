@@ -10,11 +10,13 @@ redirect_from:
 
 Biography:
 =====
-Hui Chen is currently a Ph.D. student at King Abdullah University of Science and Technology (KAUST).
+Hui Chen is currently a Ph.D. student in Electrical Engineering at King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia. He received the B.S. degree in electrical engineering from Beijing Forestry University, Beijing, China, in 2013, and the M.S. Degree in computer engineering from the University of Chinese Academy of Sciences (UCAS), Beijing, China, in 2016. His current research interests include Positioning & Localization, Machine Learning for Signal Processing, DOA estimation and stochastic optimization.
 
 What is new:
 =====
-**2020-06:**  One paper accepted to Eusipto 2020, Amsterdamasdf
+**2020-06:**  Paper "Air-writing via Receiver Array Based Ultrasonic Source Localization" accepted to Eusipto 2020, Amsterdam, Netherlands
+**2020-05:**  One paper accepted to IEEE Transactions on Instrumentation and Measurement
+**2020-04:**  One paper accepted to IEEE Wireless Communications Letters
 **2019-02:**  One poster accepted to IEEE VR 2019.  
 **2019-02:**  Completed Taqadam Bootcamp.  
 **2019-01:**  Our startup selected into the [Taqadam](https://innovation.kaust.edu.sa/taqadam/) Pre-Accelerator phase from 518 applications.  
