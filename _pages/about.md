@@ -15,10 +15,9 @@ Hui Chen is currently a Ph.D. student in Electrical Engineering at King Abdullah
 What is new:
 =====
 **2020-06:**  One paper accepted to Eusipto 2020, Amsterdam, Netherlands: 
-["Air-writing via Receiver Array Based Ultrasonic Source Localization"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)
-**2020-05:**  One paper accepted to IEEE Transactions on Instrumentation and Measurement: ["Air-writing via Receiver Array Based Ultrasonic Source Localization"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)
-
-**2020-04:**  One paper accepted to IEEE Wireless Communications Letters
+["Air-writing via Receiver Array Based Ultrasonic Source Localization"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625).
+**2020-05:**  One paper accepted to IEEE Transactions on Instrumentation and Measurement: ["Air-writing via Receiver Array Based Ultrasonic Source Localization"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625).
+**2020-04:**  One paper accepted to IEEE Wireless Communications Letters.
 **2019-02:**  One poster accepted to IEEE VR 2019.  
 **2019-02:**  Completed Taqadam Bootcamp.  
 **2019-01:**  Our startup selected into the [Taqadam](https://innovation.kaust.edu.sa/taqadam/) Pre-Accelerator phase from 518 applications.  
@@ -28,9 +27,9 @@ What is new:
 **2017-12:**  Completed course EE340 Computational Methods in Data Mining.  
 **2017-09:**  Presented our paper in Eusipco 2017, Kos, Greece. (Oral)  
 **2017-08:**  TA in course EE242 Digital Communication and Coding.  
-**2017-04:**  Obtained 4th place in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/)  
+**2017-04:**  Obtained 4th place in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/).
 **2017-02:**  Successfully passed the written EE PhD qualifying exam.  
-**2016-08:**  Start my PhD study in Electrical Engineering at King Abdullah University of Science and Technology (KAUST) advised by Prof. Tareq Al-Naffouri.  
+**2016-08:**  Start my PhD study in Electrical Engineering at King Abdullah University of Science and Technology (KAUST) advised by Prof. Tareq Al-Naffouri. 
 **2016-07:** Completed my Master’s study in Computer Engineering at University of Chinese Academy of Sciences (UCAS).  
 **2015-06:**  Completed a 5-month internship at KAUST working on indoor localization.  
 **2014-11:**  Accepted by KAUST VSRP (Visiting Student Research Program).  
