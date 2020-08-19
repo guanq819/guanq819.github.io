@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Education
+======
+* Ph.D in Electrical Engineering, King Abdullah University of Science and Technology, 2021 (expected)
+* M.S. in Computer Engineering, University of Chinese Academy of Sciences, 2016
+* B.S. in Electrical Engineering, Beijing Forestry University, 2013
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
