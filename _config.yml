@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Student at KAUST, working on Positioning & Localization, Machine Learning for Signal Processing, Stochastic Optimization."
   location         : "Thuwal"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=i8_ipXIAAAAJ&hl=en"
   email            : hui.chen@kaust.edu.sa
   researchgate     : "https://www.researchgate.net/profile/Hui_Chen202"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -111,7 +111,7 @@ author:
   tumblr           :
 #  twitter          : "replacethistwitterhandle"
   vine             :
-  wechat           : "ch15210501043"
+#  wechat           : "ch15210501043"
   xing             :
   youtube          :
   wikipedia        :
