@@ -18,25 +18,20 @@ Education
   
 Skills
 ======
-* **Languages**: Chinese (Mother tongue), English (Fluent), German (Beginner), Arabic (Quitter:joy:)
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages**: Chinese (Mother tongue), English (Fluent), German (Beginner, A2), Arabic (Quitter :joy:)
+* **Programming**: MATLAB, Python, C#, C/C++, Verylog, VHDL
+* **Others**: Tensorflow, PyTorch, Latex, Unity 3D, Blender, VR Development
 
 Activities
 ======
 * 2020-03 to 2020-04: Mixed Reality (MR) Intern at NEOM Smart City, RIyadh, KSA
-* 2020-03 to 2020-04: Mixed Reality (MR) Intern at NEOM Smart City, RIyadh, KSA
-  * NEOM
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-08 to 2020-06: Residential Assistant in the Office of Residential Life, Graduate Affairs, KAUST
 
-* 2017/2018 Fall Semester 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+%* 2017/2018 Fall Semester 2015: Research Assistant
+%  * Github University
+%  * Duties included: Merging pull requests
+%  * Supervisor: Professor Hub
   
   
 Publications
