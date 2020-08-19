@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 -Education
-<img align="left" width="50" height="30" src="/images/500x300.png">
+<img align="left" width="200" height="120" src="/images/500x300.png">
 
 test sadfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff\
 sdfsdfsdf\
@@ -17,7 +17,7 @@ test
 test
 
 -Education
-<img align="left" width="50" height="30" src="/images/500x300.png">
+<img align="left" width="200" height="120" src="/images/500x300.png">
 
 test sadfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff\
 sdfsdfsdf\
