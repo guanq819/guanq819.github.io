@@ -1,12 +1,33 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome ! :smile:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+What is new:
+**2019-02:**  One poster accepted to IEEE VR 2019.  
+**2019-02:**  Completed Taqadam Bootcamp.  
+**2019-01:**  Our startup selected into the [Taqadam](https://innovation.kaust.edu.sa/taqadam/) Pre-Accelerator phase from 518 applications.  
+**2018-11:**  Presented our paper in GlobalSIP 2018, Anaheim, USA. (Poster)  
+**2018-08:**  Guided two summer interns with project [“Real-time Arabic Air-writing Character Recognition”] (https://ssi.kaust.edu.sa/overview)  
+**2018-04:**  Presented “UBAS: An Ultrasound Based Air-writing System” in [Icassp 2018](https://2018.ieeeicassp.org/Demos.asp) Demo session, Calgary, Canada.  
+**2017-12:**  Completed course EE340 Computational Methods in Data Mining.  
+**2017-09:**  Presented our paper in Eusipco 2017, Kos, Greece. (Oral)  
+**2017-08:**  TA in course EE242 Digital Communication and Coding.  
+**2017-04:**  Obtained 4th place in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/)  
+**2017-02:**  Successfully passed the written EE PhD qualifying exam.  
+**2016-08:**  Start my PhD study in Electrical Engineering at King Abdullah University of Science and Technology (KAUST) advised by Prof. Tareq Al-Naffouri.  
+**2016-07:** Completed my Master’s study in Computer Engineering at University of Chinese Academy of Sciences (UCAS).  
+**2015-06:**  Completed a 5-month internship at KAUST working on indoor localization.  
+**2014-11:**  Accepted by KAUST VSRP (Visiting Student Research Program).  
+**2013-09:**  Recommended for directly admission without exams to University of Chinese Academy of Sciences and started my Master’s degree in Computer Engineering.  
+**2013-07:**  Completed my Bachelor’s study in Electrical Engineering from Beijing Forestry University with “excellent graduate student” award.  
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
