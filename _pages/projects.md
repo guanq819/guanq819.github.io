@@ -15,6 +15,8 @@ author_profile: true
 This is the code you need to align images to the left:
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
