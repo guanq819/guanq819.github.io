@@ -18,7 +18,7 @@ Learning) methods for antenna selection and DOA estimation in switch-based MIMO 
 
 ---
 
-## Joint TDOA/PDOA Localization Using Particle Swarm Optimization (2017.05-2019-03)
+## Joint TDOA/PDOA Localization Using Particle Swarm Optimization
 
 <img align="right" width="200" height="125" src="/images/5_tdoa_pdoa.png">
 
