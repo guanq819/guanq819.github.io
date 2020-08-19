@@ -13,13 +13,10 @@ author_profile: true
 <img align="left" width="150" height="150" src="/images/500x300.png">
 
 This is the code you need to align images to the left:
-code 1  
-&nbsp
 
 <p>&nbsp;</p>
 
-&nbsp
-&nbsp
+
 
 ---
 
