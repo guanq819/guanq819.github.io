@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome ! :smile:"
+title: "Welcome! What is new:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+Biography:
+=====
+Hui Chen is currently a Ph.D. student at King Abdullah University of Science and Technology (KAUST).
 
 What is new:
+=====
+
 **2019-02:**  One poster accepted to IEEE VR 2019.  
 **2019-02:**  Completed Taqadam Bootcamp.  
 **2019-01:**  Our startup selected into the [Taqadam](https://innovation.kaust.edu.sa/taqadam/) Pre-Accelerator phase from 518 applications.  
