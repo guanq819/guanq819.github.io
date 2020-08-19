@@ -27,12 +27,12 @@ What is new:
 **2017-12:**  Completed course EE340 Computational Methods in Data Mining.\
 **2017-09:**  Presented (Oral) our paper in **Eusipco 2017**, Kos, Greece: "[Angle-of-arrival-based gesture recognition using ultrasonic multi-frequency signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8081160)".\
 **2017-08:**  TA in graduate course EE242 Digital Communication and Coding.\
-**2017-04:**  Obtained the **4th place** in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/).
-**2017-02:**  Successfully passed the written EE **PhD qualifying exam**.  
-**2016-08:**  Start my **PhD study** (with full finantial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST) advised by Prof. Tareq Al-Naffouri. 
-**2016-07:**  Completed my **Master’s study** in Computer Engineering at University of Chinese Academy of Sciences (UCAS).  
-**2015-06:**  Completed a 5-month **internship** at KAUST working on indoor localization.  
-**2014-11:**  Accepted by KAUST VSRP (Visiting Student Research Program).  
-**2013-09:**  Recommended for directly admission without exams to University of Chinese Academy of Sciences and started my Master’s degree in Computer Engineering.  
+**2017-04:**  Obtained the **4th place** in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/).\
+**2017-02:**  Successfully passed the written EE **PhD qualifying exam**.\
+**2016-08:**  Start my **PhD study** (with full finantial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST). Supervised by by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri) at [Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl).
+**2016-07:**  Completed my **Master’s study** in Computer Engineering at University of Chinese Academy of Sciences (UCAS).\
+**2015-06:**  Completed a 5-month **internship** at KAUST working on indoor localization.\
+**2014-11:**  Accepted by KAUST VSRP (Visiting Student Research Program).\
+**2013-09:**  Recommended for directly admission without exams to University of Chinese Academy of Sciences and started my Master’s degree in Computer Engineering.\
 **2013-07:**  Completed my Bachelor’s study in Electrical Engineering from Beijing Forestry University with “**Excellent Graduate Student of Beijing**” award.  
 
