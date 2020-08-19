@@ -26,8 +26,8 @@ redirect_from:
 -Honors & Awards
 =====
 * Scholarship:
-  sdfsd
-  sdf
+  * sdfsd
+  * sdf
 
 -Activities
 ======
