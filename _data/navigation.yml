@@ -12,8 +12,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "News"
-    url: /News/
     
   - title: "CV"
     url: /cv/
