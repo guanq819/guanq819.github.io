@@ -26,13 +26,9 @@ Activities
 ======
 * 2020-03 to 2020-04: Mixed Reality (MR) Intern at NEOM Smart City, RIyadh, KSA
 * 2019-08 to 2020-06: Residential Assistant in the Office of Residential Life, Graduate Affairs, KAUST
+* 2017-09 to 2018-12: Teaching Assistant in course EE241 Digital Communication and Coding, KAUST
+* 2016-09 to 2018-09: Chinese Language Teacher in Culture & Language Exchange Group, KAUST
 
----
-* 2017/2018 Fall Semester 2015: Research Assistant
- * Github University
- * Duties included: Merging pull requests
- * Supervisor: Professor Hub
----
   
 Publications
 ======
