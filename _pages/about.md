@@ -14,11 +14,11 @@ Hui Chen is currently a Ph.D. student in Electrical Engineering at King Abdullah
 
 What is new:
 =====
-**2020-06:**  One paper accepted to Eusipto 2020, Amsterdam, Netherlands:\
-      "[Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration](https://www.researchgate.net/publication/342444512_Phase-difference-based_3-D_Source_Localization_Using_a_Compact_Receiver_Configuration)"\
-**2020-05:**  One paper accepted to IEEE Transactions on Instrumentation and Measurement: ["Air-writing via Receiver Array Based Ultrasonic Source Localization"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625).\
-**2020-04:**  One paper accepted to IEEE Wireless Communications Letters: "[A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)"\
-**2019-02:**  One poster accepted to IEEE VR 2019: "[A Decomposition Approach for Complex Gesture Recognition Using DTW and Prefix Tree](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8797868)"\
+**2020-06:**  One paper accepted to **Eusipto 2020**, Amsterdam, Netherlands:"[Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration](https://www.researchgate.net/publication/342444512_Phase-difference-based_3-D_Source_Localization_Using_a_Compact_Receiver_Configuration)"\
+**2020-05:**  One paper accepted to **IEEE Transactions on Instrumentation and Measurement**: ["Air-writing via Receiver Array Based Ultrasonic Source Localization"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625).\
+**2020-04:**  One paper accepted to **IEEE Wireless Communications Letters**: "[A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)"\
+**2019-09:**  Presented (**Oral**) our paper in **Eusipco 2019**, A Coruna, Spain: "[Realtime 2-D DOA Estimation using Phase-Difference Projection (PDP)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804)"
+**2019-02:**  Presented (Poster) our paper in IEEE VR 2019, Osaka, Japan: "[A Decomposition Approach for Complex Gesture Recognition Using DTW and Prefix Tree](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8797868)"\
 **2019-03:**  Our startup "[Nommas](https://innovation.kaust.edu.sa/taqadam-startups/)" selected into Taqadam Accelerator (2019-Cohort 3) with $20K USD funding.\ 
 **2019-01:**  Our startup "Nommas" selected into the [Taqadam](https://innovation.kaust.edu.sa/taqadam/) Pre-Accelerator phase from 518 applications.\
 **2018-11:**  Presented (Poster) our paper in GlobalSIP 2018, Anaheim, USA: "[Fast Phase-Difference-Based DoA Estimation Using Random Ferns](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8646676)"\
