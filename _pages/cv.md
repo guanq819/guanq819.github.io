@@ -29,10 +29,10 @@ redirect_from:
 KAUST Fellowship (2016-2021)\
 Chinese Academy of Sciences Excellent Undergraduate Scholarship (2013)\
 National Scholarship (2‰, 2010-2013, 3 times, awarded by Ministry of Education of China)
-* Honors
+* Honors:\
 Excellent Graduate Student of Beijing (2013)\
 Excellent Students Award of Beijing (2011)
-* Awards
+* Awards:\
 4th place in Microsoft Indoor Localization Competition (IPSN 2017, Pittsburgh, PA, USA)\
 1st Prize in Beijing, 3rd Prize in China (iCAN Contest 2012, Wuxi, China)\
 Honorable Mention (The Mathematical Contest in Modeling, 2012, USA)\
