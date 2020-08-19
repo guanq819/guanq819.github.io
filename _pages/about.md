@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage :smile:"
+title: "Welcome to my homepage! :smile:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ Hui Chen is currently a Ph.D. student at King Abdullah University of Science and
 
 What is new:
 =====
-
+**2020-06:**  One paper accepted to Eusipto 2020, Amsterdamasdf
 **2019-02:**  One poster accepted to IEEE VR 2019.  
 **2019-02:**  Completed Taqadam Bootcamp.  
 **2019-01:**  Our startup selected into the [Taqadam](https://innovation.kaust.edu.sa/taqadam/) Pre-Accelerator phase from 518 applications.  
