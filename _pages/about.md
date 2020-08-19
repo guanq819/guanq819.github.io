@@ -16,6 +16,7 @@ What is new:
 =====
 **2020-06:**  One paper accepted to Eusipto 2020, Amsterdam, Netherlands: 
 ["Air-writing via Receiver Array Based Ultrasonic Source Localization"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625).
+
 **2020-05:**  One paper accepted to IEEE Transactions on Instrumentation and Measurement: ["Air-writing via Receiver Array Based Ultrasonic Source Localization"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625).
 **2020-04:**  One paper accepted to IEEE Wireless Communications Letters.
 **2019-02:**  One poster accepted to IEEE VR 2019.  
