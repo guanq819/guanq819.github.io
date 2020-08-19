@@ -20,10 +20,10 @@ What is new:
 **2020-04:**  Completed an **internship at NEOM** working as a Mixed Reality Developer.\
 **2019-09:**  Presented (**Oral**) our paper in **Eusipco 2019**, A Coruna, Spain: "[Realtime 2-D DOA Estimation using Phase-Difference Projection (PDP)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804)".\
 **2019-08:**  Started to work as an **RA (Residential Assistant)** in the Office of Residential Life, Graduate Affairs, KAUST.\
-**2019-08:**  One US Patent Filed: "[Angle-of-arrival-based gesture recognition system and method](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)".\
+**2019-08:**  One US Patent filed, No.10,386,481: "[Angle-of-arrival-based gesture recognition system and method](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)".\
 **2019-02:**  Presented (**Poster**) our paper in **IEEE VR 2019**, Osaka, Japan: "[A Decomposition Approach for Complex Gesture Recognition Using DTW and Prefix Tree](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8797868)".\
-**2019-03:**  Our startup "[Nommas](https://innovation.kaust.edu.sa/taqadam-startups/)" selected into Taqadam Accelerator (2019-Cohort 3) with $20K USD funding.\
-**2019-01:**  Our startup "Nommas" selected into the [Taqadam](https://innovation.kaust.edu.sa/taqadam/) Pre-Accelerator phase from 518 applications.\
+**2019-03:**  Our startup "[Nommas](https://innovation.kaust.edu.sa/taqadam-startups/)" selected into [Taqadam](https://innovation.kaust.edu.sa/taqadam/) Accelerator (2019-Cohort 3) with $20K USD funding.\
+**2019-01:**  Our startup "Nommas" selected into the Taqadam **Pre-Accelerator phase** from 518 applications.\
 **2018-11:**  Presented (**Poster**) our paper in GlobalSIP 2018, Anaheim, USA: "[Fast Phase-Difference-Based DoA Estimation Using Random Ferns](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8646676)".\
 **2018-08:**  TA in graduate course EE242 Digital Communication and Coding (2018-2019 Fall).\
 **2018-08:**  Guided two summer interns with project "[Real-time Arabic Air-writing Character Recognition](https://ssi.kaust.edu.sa/overview)".\
