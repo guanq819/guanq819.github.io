@@ -14,10 +14,10 @@ author_profile: true
 
 This is the code you need to align images to the left:
 code 1
-|
-|
-|sdf
-|
+\
+\
+sdf\
+\
 
 ---
 
