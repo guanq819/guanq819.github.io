@@ -10,7 +10,7 @@ redirect_from:
 
 Biography:
 =====
-Hui Chen is currently a Ph.D. student in Electrical Engineering at King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia. He is supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri) at [Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl). He received the B.S. degree in electrical engineering from Beijing Forestry University, Beijing, China, in 2013, and the M.S. Degree in computer engineering from the University of Chinese Academy of Sciences (UCAS), Beijing, China, in 2016. His current research interests include Positioning & Localization, Machine Learning for Signal Processing, DOA estimation and stochastic optimization.
+Hui Chen is currently a Ph.D. student in Electrical Engineering at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en)), Thuwal, Saudi Arabia. He is supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri) at [Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl). He received the B.S. degree in electrical engineering from Beijing Forestry University, Beijing, China, in 2013, and the M.S. Degree in computer engineering from the University of Chinese Academy of Sciences (UCAS), Beijing, China, in 2016. His current research interests include Positioning & Localization, Machine Learning for Signal Processing, DOA estimation and stochastic optimization.
 
 What is new:
 =====
