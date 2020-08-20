@@ -30,8 +30,7 @@ Education
 ==
 
 
-Bachelor (09/2009-07/2013) Jilin University; 
-
+Bachelor (09/2009-07/2013) Jilin University;
 Major: Biotechnology
 
 Master (08/2014-06/2016) King Abdullah University of Science and Technology;
