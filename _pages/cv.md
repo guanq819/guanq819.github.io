@@ -67,18 +67,16 @@ Publication List
 8. Han,T., Zeng,F., Li,Z., Liu,L., Wei,M., Guan,Q., Liang,X., Peng,Z., Liu,M., Qin,J., et al. (2013) Biochemical characterization of a recombinant pullulanase from Thermococcus kodakarensis KOD1. Lett. Appl. Microbiol., 10.1111/lam.12118.
 9. Guan,Q., Guo,X., Han,T., Wei,M., Jin,M., Zeng,F., Liu,L., Li,Z., Wang,Y., Cheong,G.W., et al. (2013) Cloning, purification and biochemical characterisation of an organic solvent-, detergent-, and thermo-stable amylopullulanase from Thermococcus kodakarensis KOD1. Process Biochem., 10.1016/j.procbio.2013.04.007.
 
-**Submitted:** 
-10. Guan,Q., Garbati,M., Mfarrej,S., AlMutairi,T., Smyth,A., Singh,A., Fagbo,S., Browne,J., UrRahman,M., Alruwaili,A., et al. (2019) Insights into ancestry and adaptive evolution of the Mycobacterium tuberculosis complex from analysis of the emerging pathogen Mycobacterium riyadhense. bioRxiv, under review in NAR Genomics and Bioinformatics. \ 
+**Submitted:**
 
-11. Sadykov,M., Mourier,T., Guan,Q. and Pain,A. (2020) Cytosine deamination in SARS-CoV-2 leads to progressive CpG depletion. bioRxiv, under review in Genome Biology and Evolution. \
-
+10. Guan,Q., Garbati,M., Mfarrej,S., AlMutairi,T., Smyth,A., Singh,A., Fagbo,S., Browne,J., UrRahman,M., Alruwaili,A., et al. (2019) Insights into ancestry and adaptive evolution of the Mycobacterium tuberculosis complex from analysis of the emerging pathogen Mycobacterium riyadhense. bioRxiv, under review in NAR Genomics and Bioinformatics.  
+11. Sadykov,M., Mourier,T., Guan,Q. and Pain,A. (2020) Cytosine deamination in SARS-CoV-2 leads to progressive CpG depletion. bioRxiv, under review in Genome Biology and Evolution.
 12. Mourier,T., Alvarenga,D.A.M. de, Kaushik,A., Pina-Costa,A. de, Guzmán-Vega,F.J., Douvropoulou,O., Guan,Q., Forrester,S., Abreu,F.V.S. de, Júnior,C.B., et al. (2019) The genome of the zoonotic malaria parasite Plasmodium simium reveals adaptations to host-switching. bioRxiv, submitted to Plos Pathogens.
 
-**Drafted:** 
+**Drafted:**
+
 13. Guan,Q., Althuthali,B., Mfarrej,S., Halim,M.A., Almaghrabi,R.S., and Pain.A. A case of Naegleria fowleri related primary amoebic meningoencephalitis in Saudi Arabia diagnosed by next-generation sequencing. \ 
-
 14. Guan,Q., Alasmari,F., Mfarrej,S., AlMutairi,T.S. and Pain,A. Invasive Candida auris outbreak in Saudi Arabia hospitals.\
-
 15. Spanning,R.V., Guan,Q., Malkonian,C., Aerts,J., Flot,J.F., Bitter,W., et al. A novel methanotrophic Mycobacterium species as primary producer in a cave borne microbial community
 
 
