@@ -25,8 +25,8 @@ Email: qingtian.guan@kaust.edu.sa
 Current Address: King Abdullah University of Science and Technology, Saudi Arabia
 
 
-Education
-==
+**Education**
+
 
 Bachelor (09/2009-07/2013) Jilin University; 
 
@@ -38,19 +38,22 @@ Major: Bioscience/Bioinformatics
 Ph.D.  (06/2016-Present) King Abdullah University of Science and Technology;
 Major: Bioscience/Bioinformatics
 
-Research Interest                                                 
+**Research Interest**
+
 Bioinformatics; Pathogen Genomics; Metagenomics 
 
-Skills                                                      
+**Skills**
+
 Experienced in sequencing platforms (Illumine, PacBio, Nanopore) from library preparation to data analysis including Comparative genomics study; Phylogeny analysis; RNAseq analysis; Metagenomics analysis, etc.
 
 Master in Shell/Python/R and Linux operating system.
 
 Basic skills in molecular biology and cell biology experiment.
 
-Publication List    
+**Publication List**    
 
 Published:
+==
 1.	Guan,Q., Sadykov,M., Nugmanova,R., Carr,M.J. and Stefan,T. (2020) The genomic variation landscape of globally-circulating clades of SARS-CoV-2 defines a genetic barcoding scheme. bioRxiv, under review in International Journal of Infectious Diseases.
 2. Hala,S., Chakkiath,A.P., Guan,Q., Alshehri,M., Alsaedi,A., Alsharief,A., Al-Amri,A. and Pain,A. (2020) Crohn’s Disease Patient Infected With Multiple Co-occurring Nontuberculous Mycobacteria. Inflamm. Bowel Dis., 26, e65–e67.
 3. Guan,Q., Ummels,R., Ben-Rached,F., Alzahid,Y., Amini,M.S., Adroub,S.A., van Ingen,J., Bitter,W., Abdallah,A.M. and Pain,A. (2020) Comparative Genomic and Transcriptomic Analyses of Mycobacterium kansasii Subtypes Provide New Insights Into Their Pathogenicity and Taxonomy. Front. Cell. Infect. Microbiol., 10.3389/fcimb.2020.00122.
@@ -62,17 +65,19 @@ Published:
 9. Guan,Q., Guo,X., Han,T., Wei,M., Jin,M., Zeng,F., Liu,L., Li,Z., Wang,Y., Cheong,G.W., et al. (2013) Cloning, purification and biochemical characterisation of an organic solvent-, detergent-, and thermo-stable amylopullulanase from Thermococcus kodakarensis KOD1. Process Biochem., 10.1016/j.procbio.2013.04.007.
 
 Submitted: 
+==
 10. Guan,Q., Garbati,M., Mfarrej,S., AlMutairi,T., Smyth,A., Singh,A., Fagbo,S., Browne,J., UrRahman,M., Alruwaili,A., et al. (2019) Insights into ancestry and adaptive evolution of the Mycobacterium tuberculosis complex from analysis of the emerging pathogen Mycobacterium riyadhense. bioRxiv, under review in NAR Genomics and Bioinformatics. 
 11. Sadykov,M., Mourier,T., Guan,Q. and Pain,A. (2020) Cytosine deamination in SARS-CoV-2 leads to progressive CpG depletion. bioRxiv, under review in Genome Biology and Evolution.
 12. Mourier,T., Alvarenga,D.A.M. de, Kaushik,A., Pina-Costa,A. de, Guzmán-Vega,F.J., Douvropoulou,O., Guan,Q., Forrester,S., Abreu,F.V.S. de, Júnior,C.B., et al. (2019) The genome of the zoonotic malaria parasite Plasmodium simium reveals adaptations to host-switching. bioRxiv, submitted to Plos Pathogens.
 
 Drafted: 
+==
 13. Guan,Q., Althuthali,B., Mfarrej,S., Halim,M.A., Almaghrabi,R.S., and Pain.A. A case of Naegleria fowleri related primary amoebic meningoencephalitis in Saudi Arabia diagnosed by next-generation sequencing. 
 14. Guan,Q., Alasmari,F., Mfarrej,S., AlMutairi,T.S. and Pain,A. Invasive Candida auris outbreak in Saudi Arabia hospitals.
 15. Spanning,R.V., Guan,Q., Malkonian,C., Aerts,J., Flot,J.F., Bitter,W., et al. A novel methanotrophic Mycobacterium species as primary producer in a cave borne microbial community
 
 
-Grant & Patent                                                                                         
+**Grant & Patent**                                                                                         
 Title: The Genomic, Transcriptomic and Microbiomic Landscape of COVID-19
 King Abdulaziz City for Science and Technology (KACST) Grant Number: 5-20-01-002-0008; 
 Position: CO-I; 
