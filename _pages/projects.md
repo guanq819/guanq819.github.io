@@ -58,7 +58,7 @@ Air-writing systems have recently been proposed as tools for human-machine inter
 <img align="right" width="200" height="125" src="/images/2_DOA.png">
 
 Direction of arrival (DOA) estimation is an important signal processing topic with applications covering areas such as wireless sensor networks, communications, indoor target tracking, and so on. We designed several DOA estimation algorithms to meet the needs of different scenarios.\
-**Reference:** \[[paper1](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8646676)\]\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804&tag=1)\]
+**Reference:** \[[paper1](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8646676)\]\[[paper2](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804&tag=1)\]
 
 
 ---
