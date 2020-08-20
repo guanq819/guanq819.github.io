@@ -8,6 +8,14 @@ author_profile: false
 {% include base_path %}
 
 
+## Cooperative-Positioning and Decision-Making for the Internet of Things/Vehicles (IoT/IoV)
+
+<img align="right" width="200" height="125" src="/images/7_IOV.png">
+
+We want to: a). design and evaluate assisted positioning algorithms with moving anchors (UAVs) for IoT; b). design and evaluate cooperative positioning algorithms for IoV; c). design RL-based (Reinforcement Learning) motion planning and communication strategy to achieve a better system positioning performance.
+
+---
+
 
 ## Antenna Selection Algorithm for Switch-based MIMO System
 
@@ -39,7 +47,7 @@ In this project, we built a virtual kitchen environment with a variety of built-
 ---
 ## Ultrasonic Gesture Recognition/Air-writing System
 
-<img align="right" width="200" height="125" src="/images/3_airwriting.png">
+<img align="right" width="200" height="125" src="/images/airwriting.png">
 
 Air-writing systems have recently been proposed as tools for human-machine interaction where instructions can be represented using letters or digits written in the air. Different technologies have been used to realize air-writing systems. In this project, we propose an air-writing system using acoustic waves. The proposed system consists of two components: a motion tracking component, and a text recognition component.\
 **Reference:** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]\[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]
