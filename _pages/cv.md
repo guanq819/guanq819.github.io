@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Personal Information
+**Personal Information**
 
 
 Name: Qingtian Guan/Male   
@@ -26,6 +26,7 @@ Current Address: King Abdullah University of Science and Technology, Saudi Arabi
 
 
 Education
+==
 
 Bachelor (09/2009-07/2013) Jilin University; 
 
