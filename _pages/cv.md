@@ -10,12 +10,22 @@ redirect_from:
 {% include base_path %}
 
 
-Personal Information                                                                                                         
-Name: Qingtian Guan/Male                      Date of Birth: Mar .27th, 1990 
-Email: qingtian.guan@kaust.edu.sa	            Cell Phone: +966 0570441872         
+Personal Information
+
+Name: Qingtian Guan/Male                      
+
+Date of Birth: Mar .27th, 1990 
+
+Email: qingtian.guan@kaust.edu.sa	
+
+Cell Phone: +966 0570441872   
+
 Current Address: King Abdullah University of Science and Technology, Saudi Arabia
-Education                                                                                                                
+
+Education
+
 Bachelor (09/2009-07/2013) Jilin University; 
+
 Major: Biotechnology
 
 Master (08/2014-06/2016) King Abdullah University of Science and Technology;
@@ -26,13 +36,16 @@ Major: Bioscience/Bioinformatics
 
 Research Interest                                                 
 Bioinformatics; Pathogen Genomics; Metagenomics 
+
 Skills                                                      
 Experienced in sequencing platforms (Illumine, PacBio, Nanopore) from library preparation to data analysis including Comparative genomics study; Phylogeny analysis; RNAseq analysis; Metagenomics analysis, etc.
 
 Master in Shell/Python/R and Linux operating system.
 
 Basic skills in molecular biology and cell biology experiment.
-Journal List                                                                                                            
+
+Publication List    
+
 Published:
 1.	Guan,Q., Sadykov,M., Nugmanova,R., Carr,M.J. and Stefan,T. (2020) The genomic variation landscape of globally-circulating clades of SARS-CoV-2 defines a genetic barcoding scheme. bioRxiv, under review in International Journal of Infectious Diseases.
 2. Hala,S., Chakkiath,A.P., Guan,Q., Alshehri,M., Alsaedi,A., Alsharief,A., Al-Amri,A. and Pain,A. (2020) Crohn’s Disease Patient Infected With Multiple Co-occurring Nontuberculous Mycobacteria. Inflamm. Bowel Dis., 26, e65–e67.
@@ -63,6 +76,7 @@ Position: CO-I;
 Title: Composition and method for detecting mycobacterium riyadhense
 US patent ID: U.S.S.N. 62/884,203
 Position: Inventor
+
 Honor & Awards in recent years                                                                                                  
 Second prize for poster presentation in “Digital Health 2020” held by KAUST Research Conference entitled” Next-generation sequencing and bioinformatics-driven clinical metagenomics for digital health" in 2019.
 Oral presentation in 6th Meeting of the Consortium for the Control of Zoonoses (GI-CoRE), July 2018, Sapporo.
