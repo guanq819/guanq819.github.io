@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hui Chen / Homepage"
+title                    : "Qingtian Guan / Homepage"
 title_separator          : "-"
-name                     : &name "Hui Chen"
+name                     : &name "Qingtian Guan"
 description              : &description "My Homepage"
-url                      : https://chenhui07c8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://guanq819.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenhui07c8.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=i8_ipXIAAAAJ&hl=en"
-  email            : "hui.chen@kaust.edu.sa"
+  email            : "qingtian.guan@kaust.edu.sa"
   researchgate     : "https://www.researchgate.net/profile/Hui_Chen202"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
 #  flickr           :
   facebook         :
   foursquare       :
-  github           : "chenhui07c8"
+  github           : "guanq819"
   google_plus      :
   keybase          :
   instagram        :
