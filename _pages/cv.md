@@ -82,12 +82,12 @@ Publication List
 
 Grant & Patent
 ==
-Title: The Genomic, Transcriptomic and Microbiomic Landscape of COVID-19
-King Abdulaziz City for Science and Technology (KACST) Grant Number: 5-20-01-002-0008; 
+Title: The Genomic, Transcriptomic and Microbiomic Landscape of COVID-19;\
+King Abdulaziz City for Science and Technology (KACST) Grant Number: 5-20-01-002-0008;\ 
 Position: CO-I; 
 
-Title: Composition and method for detecting mycobacterium riyadhense
-US patent ID: U.S.S.N. 62/884,203
+Title: Composition and method for detecting mycobacterium riyadhense;\
+US patent ID: U.S.S.N. 62/884,203;\
 Position: Inventor
 
 Honor & Awards in recent years
