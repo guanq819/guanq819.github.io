@@ -31,7 +31,7 @@ In this work, we want to improve DOA estimations by selecting appropriate antenn
 
 <img align="right" width="200" height="125" src="/images/5_tdoa_pdoa.png">
 
-Time-difference-of-arrival (TDOA) based localization has the main advantage that it does not require synchronization between the transmitting and the receiving sides. Phase-difference-of-arrival (PDOA) provides additional information that can be leveraged to enhance localization performance. In this work, we propose a novel approach that incorporates both TDOA and PDOA to achieve improved position estimation. In the proposed approach, an initial location estimate is obtained by optimizing a TDOA cost function. Next, a PDOA, or a hybrid TDOA-PDOA cost function is optimized using a particle swarm optimizer to obtain the final location estimate.\
+Time-difference-of-arrival (TDOA) based localization has the main advantage that it does not require synchronization between the transmitting and the receiving sides. Phase-difference-of-arrival (PDOA) provides additional information that can be leveraged to enhance localization performance. In this work, we propose a novel approach that incorporates both TDOA and PDOA to achieve improved position estimation. \
 **Reference:** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9062333)\]
 
 ---
