@@ -19,8 +19,8 @@ redirect_from:
 -Skills
 ======
 * **Languages**: Chinese (Mother tongue), English (Fluent), German (Beginner, A2), Arabic (Quitter :joy:)
-* **Programming**: MATLAB, Python, C#, C/C++, Verylog, VHDL
-* **Others**: Tensorflow, PyTorch, Latex, Unity 3D, Blender, VR Development
+* **Programming**: MATLAB, Python (TensorFlow), C# (Unity 3D), C/C++ (Arduino), Verilog, VHDL
+* **Skills**: VR/AR Development, Interactive Simulation & Visualization, 3D Modeling
 
 
 -Honors & Awards
