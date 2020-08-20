@@ -22,8 +22,7 @@ We want to: a). design and evaluate assisted positioning algorithms with moving 
 <img align="right" width="200" height="125" src="/images/6_MIMO.png">
 
 Direction-of-arrival (DOA) is important in asset tracking, navigation, and communications.
-The estimation performance is decided by a lot of factors, such as target direction, array layout, number of sources and so on.
-Switch-based MIMO architecture is one of the promising solutions, which connects a limited number of radio frequency (RF) chains to a larger number of antennas.
+Switch-based MIMO architecture is one of the promising solutions to reduce hardware cost.
 In this work, we want to improve DOA estimations by selecting appropriate antennas under different situations. Two DOA-based antenna selection algorithms, namely, a greedy algorithm and a neural network-based method, are proposed for the switch-based MIMO system using threshold region approximation.
 
 ---
