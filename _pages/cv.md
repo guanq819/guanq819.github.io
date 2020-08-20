@@ -94,6 +94,6 @@ Second prize for poster presentation in “Digital Health 2020” held by KAUST 
 
 Oral presentation in 6th Meeting of the Consortium for the Control of Zoonoses (GI-CoRE), July 2018, Sapporo;
 
-Oral presentation in King Faisal Specialist Hospital & Research Centre, December 2018, Riyadh;
-Oral presentation in King Fahad Medical City, December 2018, Riyadh;
+Oral presentation in King Faisal Specialist Hospital & Research Centre, December 2018, Riyadh;\
+Oral presentation in King Fahad Medical City, December 2018, Riyadh;\
 Oral presentation in King Abdullah University of Science and Technology Bioscience Seminar, May,2018;
