@@ -16,7 +16,7 @@ author_profile: false
 Direction-of-arrival (DOA) is important in asset tracking, navigation, and communications.
 The estimation performance is decided by a lot of factors, such as target direction, array layout, number of sources and so on.
 Switch-based MIMO architecture is one of the promising solutions, which connects a limited number of radio frequency (RF) chains to a larger number of antennas.
-In this work, we want to improve DOA estimations by selecting appropriate antennas under different situations. Two DOA-based antenna selection algorithms, namely, a greedy algorithm and a neural network-based method, are proposed for the switch-based MIMO system using threshold region approximation.\
+In this work, we want to improve DOA estimations by selecting appropriate antennas under different situations. Two DOA-based antenna selection algorithms, namely, a greedy algorithm and a neural network-based method, are proposed for the switch-based MIMO system using threshold region approximation.
 
 ---
 
@@ -33,7 +33,7 @@ Time-difference-of-arrival (TDOA) based localization has the main advantage that
 
 <img align="right" width="200" height="125" src="/images/4_VRKITCHEN.png">
 
-In this project, we built a virtual kitchen environment with a variety of built-in items such as kitchen tools, fruits, vegetable and so on. Kitchen Simulator intends to be: a). a virtual training environment for the users to learn how to use the tools inside a kitchen. b). a tool for the users to learn the name, nutrition information, cooking procedures of different dishes. c). a platform to analyze users’ behavior and preferences. The analyzing results could further be used in smart glass (AR) based kitchen/home assistant.\
+In this project, we built a virtual kitchen environment with a variety of built-in items such as kitchen tools, fruits, vegetable and so on. Kitchen Simulator intends to be: a). a virtual training environment for the users to learn how to use the tools inside a kitchen. b). a tool for the users to learn the name, nutrition information, cooking procedures of different dishes. c). a platform to analyze users’ behavior and preferences. The analyzing results could further be used in smart glass (AR) based kitchen/home assistant.
 
 
 ---
@@ -41,9 +41,8 @@ In this project, we built a virtual kitchen environment with a variety of built-
 
 <img align="right" width="200" height="125" src="/images/3_airwriting.png">
 
-Air-writing systems have recently been proposed as tools for human-machine interaction where instructions can be represented using letters or digits written in the air. Different technologies have been used to realize air-writing systems. In this project, we propose an air-writing system using acoustic waves. The proposed system consists of two components: a motion tracking component, and a text recognition component.
-
-**Reference:** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]
+Air-writing systems have recently been proposed as tools for human-machine interaction where instructions can be represented using letters or digits written in the air. Different technologies have been used to realize air-writing systems. In this project, we propose an air-writing system using acoustic waves. The proposed system consists of two components: a motion tracking component, and a text recognition component.\
+**Reference:** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]\[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]
 
 
 ---
@@ -51,7 +50,9 @@ Air-writing systems have recently been proposed as tools for human-machine inter
 
 <img align="right" width="200" height="125" src="/images/2_DOA.png">
 
-Coming soon...
+Direction of arrival (DOA) estimation is an important signal processing topic with applications covering areas such as wireless sensor networks, communications, indoor target tracking, and so on. We designed several DOA estimation algorithms to meet the needs of different scenarios.\
+**Reference:** \[[paper1](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8646676)\]\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804&tag=1)\]
+
 
 ---
 
