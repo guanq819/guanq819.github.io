@@ -8,7 +8,7 @@ author_profile: false
 {% include base_path %}
 
 
-## Cooperative-Positioning and Decision-Making for IoT/IoV
+## Cooperative-Positioning and Decision-Making for IoT/IoV (ongoing)
 
 <img align="right" width="200" height="125" src="/images/7_IOV.png">
 
@@ -17,7 +17,7 @@ We want to: a). design and evaluate assisted positioning algorithms with moving 
 ---
 
 
-## Antenna Selection Algorithm for Switch-based MIMO System
+## Antenna Selection Algorithm for Switch-based MIMO System (ongoing)
 
 <img align="right" width="200" height="125" src="/images/6_MIMO.png">
 
@@ -36,7 +36,7 @@ Time-difference-of-arrival (TDOA) based localization has the main advantage that
 
 ---
 
-## Virtual Kitchen Simulator
+## Virtual Kitchen Simulator (ongoing)
 
 <img align="right" width="200" height="125" src="/images/4_VRKITCHEN.png">
 
