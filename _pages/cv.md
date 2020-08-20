@@ -12,15 +12,18 @@ redirect_from:
 
 Personal Information
 
-Name: Qingtian Guan/Male                      
+
+Name: Qingtian Guan/Male   
+
 
 Date of Birth: Mar .27th, 1990 
 
+
 Email: qingtian.guan@kaust.edu.sa	
 
-Cell Phone: +966 0570441872   
 
 Current Address: King Abdullah University of Science and Technology, Saudi Arabia
+
 
 Education
 
