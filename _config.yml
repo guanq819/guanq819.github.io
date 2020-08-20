@@ -83,7 +83,7 @@ author:
   name             : "Hui Chen"
   avatar           : "chenhui_photo.png"
   bio              : "Ph.D. Student at KAUST, working on Positioning & Localization, Machine Learning for Signal Processing, Stochastic Optimization."
-  location         : "Bldg 1, Lv 3, 3139 KAUST, Thuwal 23955-6900, Jeddah, Saudi Arabia"
+  location         : "KAUST, Thuwal 23955-6900"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=i8_ipXIAAAAJ&hl=en"
@@ -262,16 +262,16 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 plugins:
   - jemoji
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jemoji
 
 
